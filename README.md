@@ -2,7 +2,7 @@
 
 ## Description:
 
-This submission contains the CNN-BiLSTM + Attention model with focal loss. This model utilizes bandpass filter(0.67 - 45 Hz), Z-score normalization, and 7.3 sec center cropping.
+This submission contains the CNN-BiLSTM + Attention model with focal loss. This model utilizes bandpass filter(0.67 - 45 Hz), Z-score normalization, and 7.3 sec center cropping to process ECG signals.
 
 ## How to run:
 
